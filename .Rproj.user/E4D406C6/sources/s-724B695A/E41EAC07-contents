@@ -1,10 +1,11 @@
 # datathons
 
-[Logo >](img/toynbee_logo.gif)
+[Logo](img/toynbee_logo.gif)
 
 # Toynbee Hall Datathon I
 
 Welcome to the first ever Toynbee Hall datathon!
+If you have not registered for this event, please [pop on over to the Eventbrite so we can have an idea of how many people participated!](www.google.com).
 This page has all the information you need to help us make meaningful changes in Tower Hamlets.
 
 ## Background
@@ -56,6 +57,14 @@ This means:
 4. Feel free to share your creation(s) on Twitter with both the #data4toynbee and #tidytuesday hashtags. 
 5. You publish your creation under the MIT Liscense. We only ask this so if we do use your analysis or data visualization in our work, we don't run into any legal problems. The liscense is reproduced below. 
 
+## Dataset
+
+Below we list datasets 
+
+* Data and link 1
+* Data and link 2 
+* Data and like n 
+
 ## House Style
 
 We want to use your work to help advocate for change in Tower Hamlets.
@@ -71,7 +80,7 @@ You of course do not need to submit your dataviz with our house style-- one of t
   - Blue (#175984)
   - Light Blue (#96B4DE)
 
-Eventually we plan to create a similar house package akin to [bbplot](), but this has not been creaetd yet. 
+Eventually we plan to create a similar house package akin to [bbplot](https://github.com/bbc/bbplot), but this has not been creaetd yet. 
 
 ## Liscence Agreement 
 
@@ -79,6 +88,7 @@ By participating in our Datathon, we ask that any data visualizations that you c
 
 The liscencse is reproduced below.
 
+```
 Copyright (c) 2019 <YOUR NAME HERE>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -98,6 +108,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ## Thank You and Future Work 
 
@@ -112,4 +123,4 @@ If you enjoyed this and would like to be contacted for future small and similar 
 
 One of our goals is to use our infrastructure in order to build up a network where we can use data for good to help those that need it.
 
-* Google Link
+* GOOGLE LINK HERE 
