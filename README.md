@@ -1,6 +1,6 @@
 # datathons
 
-* TOYNBEE BANNER 
+[Logo >](img/toynbee_logo.gif)
 
 # Toynbee Hall Datathon I
 
