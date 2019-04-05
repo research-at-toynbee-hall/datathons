@@ -2,17 +2,6 @@
 
 ![Logo](img/toynbee_logo.gif)
 
-## TODO
-
-* [ ] Add in data sets
-* [ ] Google Sheet
-* [ ] Data checklist for people
-* [ ] Link Github, website, eventbrite
-* [ ] Make examples
-* [ ] Emphasize Networking
-* [ ] Add in that launch will ID things 
-* [ ] Schedule for day, intro, peer research, stuff
-
 # Toynbee Hall Datathon
 
 Welcome to the first ever Toynbee Hall datathon!
