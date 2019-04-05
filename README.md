@@ -1,6 +1,6 @@
 # datathons
 
-[Logo](img/toynbee_logo.gif)
+![Logo](img/toynbee_logo.gif)
 
 ## TODO
 
@@ -77,7 +77,24 @@ In the table below we list datasets of interest, as well as if we have cleaned t
 
 * [Crime in London](https://data.london.gov.uk/dataset/recorded_crime_summary)
 * Data and link 2 
-* Data and like n 
+* Data and like n
+
+
+## Schedule 
+
+Below we have sketched out our tenative plans.
+The scheudle for the afternoon is purposefully loose as to allow people to chat, network, and work together to discuss problems and how best to solve them.
+
+
+| Time        | Plan          | 
+| ------------- |:-------------:|
+| 13:00  | Welcome!           |
+| 13:15  | Introductions      | 
+| 13:30  | Begin Datathon     |
+| 15:30  | Coffee Break?      | 
+| 16:30  | Wrap Up and Sharing|
+| 17:00  | Event Ends         | 
+
 
 ## House Style
 
