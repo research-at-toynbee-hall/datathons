@@ -66,9 +66,13 @@ You can find a sub-directory of an example analyses in the Examples directory of
 In the table below we list datasets of interest, as well as if we have cleaned them or not. 
 
 * [Crime in London](https://data.london.gov.uk/dataset/recorded_crime_summary)
-* Data and link 2 
-* Data and link
+* [Youth Homelessness via Centrepoint](https://www.yhdatabank.com/)
 
+### Data Notes
+
+* The Youth Homelessness data varies based on how different districts report what qualifies as homless
+* Wards changed in London in YEAR. If building a complete London crime dataset, these geographic changes will affect locations. See link for more details 
+* Both Crime and Youth Homelessness data is COUNT data and not tidy!!
 
 ## Schedule 
 
@@ -79,7 +83,7 @@ The scheudle for the afternoon is purposefully loose as to allow people to chat,
 | Time        | Plan          | Speaker |
 | ------------- |:-------------:| ------|
 | 13:00  | Welcome!           | Sian Williams |
-| 13:15  | Introductions      | David Baker, Xia Lin, Peer Researcher |
+| 13:15  | Introductions      | David Baker, Xia Lin, Peer Researcher, Elliot Williams-Fletcher?? |
 | 13:30  | Begin Datathon     | | 
 | 15:30  | Coffee Break      | |
 | 16:30  | Wrap Up and Sharing| |
