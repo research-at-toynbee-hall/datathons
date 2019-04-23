@@ -56,7 +56,7 @@ The data sets are found below along with their original source, as well a few [t
 
 ## Shared Area
 
-So everyone does not have to re-invent the wheel, we have provided a shared Google Doc for people to write down ideas on that the thought might help others.
+So everyone does not have to re-invent the wheel, we have provided a shared Google Doc for people to write down ideas on that they thought might help others.
 
 Check it out [HERE](https://docs.google.com/document/d/1pfjhNPJcI3N1fZQT3Fta0xtz-NZ0Oaiv4dnvt_CHngk/edit?usp=sharing).
 
