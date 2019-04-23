@@ -36,9 +36,7 @@ That future work is this project.
 
 In order to help guide this research, we have provided a list of prompts and questions roughly sorted from more specific to more broad in order to both give you context and guide your analysis.
 
-* List 1
-* List 2
-* List 3
+> SPECIFIC QUESTIONS POSTED MORNING OF 24TH
 
 Our goal here is to identify trends in data, visualize them, and share them in way that they can be leveraged by local charities as part of their literature they used to advocate for change at the Government level.
 
