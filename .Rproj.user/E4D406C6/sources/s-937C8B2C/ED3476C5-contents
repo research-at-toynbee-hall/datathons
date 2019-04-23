@@ -56,6 +56,12 @@ Today our question is "How can we find empirical support in order to demonstrate
 In order to help answer this question, we have collected an assortment of data sets from publicly available official sources in order to provide you with the materials to help answer these questions. 
 The data sets are found below along with their original source, as well a few [tidy](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) versions of some of the data to help with your time. 
 
+## Shared Area
+
+So everyone does not have to re-invent the wheel, we have provided a shared Google Doc for people to write down ideas on that the thought might help others.
+
+Check it out [HERE](https://docs.google.com/document/d/1pfjhNPJcI3N1fZQT3Fta0xtz-NZ0Oaiv4dnvt_CHngk/edit?usp=sharing).
+
 ## Your Analysis 
 
 Given the Datasets below, we ask that you analyze your data as transparently as possible.

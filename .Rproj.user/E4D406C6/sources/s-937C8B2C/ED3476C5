@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3079403531",
+    "hash" : "1352062235",
     "id" : "ED3476C5",
-    "lastKnownWriteTime" : 1556028753,
-    "last_content_update" : 1556028753371,
+    "lastKnownWriteTime" : 1556031703,
+    "last_content_update" : 1556031703338,
     "path" : "V:/Information Services/Research/datathons/README.md",
     "project_path" : "README.md",
     "properties" : {
-        "cursorPosition" : "48,246",
+        "cursorPosition" : "62,118",
         "ignored_words" : "hashtags\n",
         "marks" : "<:38,7\n>:38,7",
-        "scrollLine" : "42"
+        "scrollLine" : "53"
     },
     "relative_order" : 1,
     "source_on_save" : false,
