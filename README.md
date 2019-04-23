@@ -46,7 +46,7 @@ Our goal here is to identify trends in data, visualize them, and share them in w
 
 For example, in answering the prompt regarding differences in Crime between wards the resulting data visualization might look something like this...
 
-"I made the following plot to compare and contrast the amont of theft in some of the Tower Hamlets wards. From the chart, we can see there are many more reported thefts happening in XXX and XXX compared with XXXX."
+"I made the following plot to compare and contrast the amont of theft in some of the Tower Hamlets wards. From the chart, we can see there are many more reported thefts happening in Spitalfields and Banglatown compared with Limehouse and Mile End"
 
 ![Example Plot](Examples/Example_Plot.png)
 
