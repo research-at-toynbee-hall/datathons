@@ -41,9 +41,6 @@ In this project, we would like to identify...
 
 ## The Questions
 
-One of the core skills of any researcher is to be able to finding meaningful answers in vague questions.
-In an industry setting, this might be something like "How do we drive more web traffic to our front page?" or "How can we optimize our company's product so that we can increase our profits in the fourth quarter for our shareholders?".
-
 Today our question is "How can we find empirical support in order to demonstrate ____ ?".
 In order to help answer this question, we have collected an assortment of data sets from publicly available official sources in order to provide you with the materials to help answer these questions. 
 The data sets are found below along with their original source, as well a few [tidy](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) versions of some of the data to help with your time. 
@@ -55,35 +52,40 @@ This means:
 
 1. For each visualization, please use a common open source software like R or Python to create your data visualizations.
 2. Save each visualization and please produce a commented script that allows your dataviz to be reproduced. This will allow us to expand upon your work, ensure the analyses are reproducible, and will let us at Toynbee Hall edit the visualizations for House Style if we adopt your creation in one of our campaigns.
-3. If possible, please try to match our House Style. 
+3. If possible, please try to match the House Style of the charity's data. 
 4. You are free to share your creation(s) on Twitter with both the #data4toynbee (and #tidytuesday hashtags). 
-5. You publish your creation under the MIT License. We only ask this so if we do use your analysis or data visualization in our work, we don't run into any legal problems. The license is reproduced below. 
+5. You publish your creation under an open source license. We only ask this so if we do use your analysis or data visualization in our work, we don't run into any legal problems. The MIT license, which falls under this category, is reproduced below. 
 
 You can find a sub-directory of an example analyses in the Examples directory of this repository. 
 
 ## Datasets
 
-In the table below we list datasets of interest, as well as if we have cleaned them or not. 
+In the list below we have our datasets of interest.
+The crime dataset has been taken from the London Data warehouse.
+There also exists a script to combine and merge years of London data if you are feeling bold and want to include a lot of archive data.
+
+The Youth Homelessness data comes from Centrepoint.
 
 * [Crime in London](https://data.london.gov.uk/dataset/recorded_crime_summary)
 * [Youth Homelessness via Centrepoint](https://www.yhdatabank.com/)
 
 ### Data Notes
 
-* The Youth Homelessness data varies based on how different districts report what qualifies as homless
-* Wards changed in London in YEAR. If building a complete London crime dataset, these geographic changes will affect locations. See link for more details 
-* Both Crime and Youth Homelessness data is COUNT data and not tidy!!
+* The Youth Homelessness data varies based on how different districts report what qualifies as homeless
+* Wards changed in London across the three London Databases. If building a complete London crime dataset, these geographic changes will affect locations. See link for more details 
+* Both Crime and Youth Homelessness data is COUNT data and not tidy!! Each row does not represent an INDIVIDUAL crime, but an aggregate. 
 
 ## Schedule 
 
-Below we have sketched out our tenative plans.
-The scheudle for the afternoon is purposefully loose as to allow people to chat, network, and work together to discuss problems and how best to solve them.
+Below we have sketched out our plans for the day.
+Times listed are BST. 
+The schedule for the afternoon is purposefully loose as to allow people to chat, network, and work together to discuss problems and how best to solve them.
 
 
 | Time        | Plan          | Speaker |
 | ------------- |:-------------:| ------|
-| 13:00  | Welcome!           | Sian Williams |
-| 13:15  | Introductions      | David Baker, Xia Lin, Peer Researcher, Elliot Williams-Fletcher?? |
+| 13:00  | Welcome!           | Xia Lin |
+| 13:15  | Introductions      | David Baker, Elliot Williams-Fletcher, Participants |
 | 13:30  | Begin Datathon     | | 
 | 15:30  | Coffee Break      | |
 | 16:30  | Wrap Up and Sharing| |
@@ -93,18 +95,42 @@ The scheudle for the afternoon is purposefully loose as to allow people to chat,
 ## House Style
 
 We want to use your work to help advocate for change in Tower Hamlets.
-In order for us to do that as efficiently as possible, we eventually will need to format it with our house style.
-You of course do not need to submit your data viz with our house style-- one of the big goals of this is to just see what we can learn when we ask for other's help analyzing our data -- but if you would like to follow our house style we use...
+In order for us to do that as efficiently as possible, the charities eventually will need to format it with their house style.
+Below we have listed the general style guides for both Toynbee Hall and Centrepoint.
+
+You of course do not need to submit your data viz with our house style-- one of the big goals of this is to just see what we can learn when we ask for other's help analyzing our data -- but if you would like to follow the house style, Toynbee Hall uses...
+
+You will notice that both charities use Orange, Black, Grey, and Blue. 
+
+### Toynbee Hall
 
 * Font: Arial Regular 
 * Primary Color
   - Orange (#F58220)
   - Grey (#635466)
-* Text
+* Text Color
   - Grey (#4C4D4F)
 * Secondary Palette 
   - Blue (#175984)
   - Light Blue (#96B4DE)
+
+### Centrepoint (YHD)
+
+* Font:
+  Title: Oswald Regular
+  Text: Lato (Light, Regular, Heavy)
+* Primary Color:
+  - Orange (#D14414)
+  - White (#FFFFFF)
+  - Black (#000000)
+* Secondary Color: 
+  - Teal (#2EA393)
+  - Dark Grey (#363636)
+  - Warm Grey (#E9E6DC)
+  - Yellow (#FFD141)
+  - Blue (#0082C7)
+  - Purple (#A54398)
+
 
 Eventually we plan to create a similar house package akin to [bbplot](https://github.com/bbc/bbplot), but this has not been created yet. 
 
@@ -149,4 +175,5 @@ If you enjoyed this and would like to be contacted for future small and similar 
 
 One of our goals is to use our infrastructure in order to build up a network where we can use data for good to help those that need it.
 
-If you could please fill out [THIS ONE MINUTE SURVEY](https://forms.gle/pP1XuSVqqgNbfzXG8) that asks if you would like to be listed on our future reports and be contacted in the future , we would very much appreciate it! 
+If you could please fill out [THIS ONE MINUTE SURVEY](https://forms.gle/pP1XuSVqqgNbfzXG8) that asks if you would like to be listed on our future reports and be contacted in the future, we would very much appreciate it! 
+This survey also asks if we can share your information with [DataKind](https://www.datakind.org/), another charity organization looking to pair data scientists with charities. 
