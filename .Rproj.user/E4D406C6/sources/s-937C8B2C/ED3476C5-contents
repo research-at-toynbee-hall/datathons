@@ -26,18 +26,29 @@ While you can read more about us on [our website](http://www.toynbeehall.org.uk/
 2. Local Safety
 
 To give a bit of background information, [Tower Hamlets](https://en.wikipedia.org/wiki/London_Borough_of_Tower_Hamlets) [one of 32 boroughs](https://en.wikipedia.org/wiki/List_of_London_boroughs) in London, England.
-Historically, Tower Hamlets has been one of the poorest and underfunded boroughs in all of London.
-Despite our lack of financial support compared to other wealthier boroughs, Tower Hamlets is one of the most [culturally diverse areas in all of London](https://en.wikipedia.org/wiki/London_Borough_of_Tower_Hamlets#Demographics).
+
+The borough of Tower Hamlets is broken up into 20 [smaller wards](https://www.towerhamlets.gov.uk/lgnl/community_and_living/borough_statistics/Area_profiles.aspx), each with its own unique demographics. 
 
 According to a previous [research project we carried out looking at the needs of older people in Tower Hamlets](http://www.toynbeehall.org.uk/wp-content/uploads/2018/09/You-dont-really-know-people-till-you-talk-to-them-Older-Peoples-Participatory-Action-Research-FINAL-REPORT.pdf), we identified public safety as an issue we needed to address in future work.
 That future work is this project.
 
+### Research Questions
+
+In order to help guide this research, we have provided a list of prompts and questions roughly sorted from more specific to more broad in order to both give you context and guide your analysis.
+
+* List 1
+* List 2
+* List 3
+
 Our goal here is to identify trends in data, visualize them, and share them in way that they can be leveraged by local charities as part of their literature they used to advocate for change at the Government level.
 
-SENTENCE HERE ABOUT LAUNCH EVENT AND WHAT WE WANT. 
+### Example
 
-For example, in the past we have made ...
-In this project, we would like to identify...
+For example, in answering the prompt regarding differences in Crime between wards the resulting data visualization might look something like this...
+
+"I made the following plot to compare and contrast the amont of theft in some of the Tower Hamlets wards. From the chart, we can see there are many more reported thefts happening in XXX and XXX compared with XXXX."
+
+![Example Plot](Examples/Example_Plot.png)
 
 ## The Questions
 
