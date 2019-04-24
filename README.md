@@ -36,7 +36,16 @@ That future work is this project.
 
 In order to help guide this research, we have provided a list of prompts and questions roughly sorted from more specific to more broad in order to both give you context and guide your analysis.
 
-> SPECIFIC QUESTIONS POSTED MORNING OF 24TH
+#### Crime and Saftey 
+
+* How does Tower Hamlets compare to other boroughs in terms of crime?
+* Which wards in Tower Hamlets experience the most crime? 
+* Are patterns and trends of crime and safety in Tower Hamlets different from that of other boroughs over time? 
+* Are patterns and trends of crime and safety within the wards of Tower Hamlets different than patterns in other wards of other boroughs?
+
+#### Youth Homelessness
+
+* How have patterns of youth homelessness changed over time and space? 
 
 Our goal here is to identify trends in data, visualize them, and share them in way that they can be leveraged by local charities as part of their literature they used to advocate for change at the Government level.
 
@@ -48,10 +57,6 @@ For example, in answering the prompt regarding differences in Crime between ward
 
 ![Example Plot](Examples/Example_Plot.png)
 
-## The Questions
-
-Today our question is "How can we find empirical support in order to demonstrate ____ ?".
-In order to help answer this question, we have collected an assortment of data sets from publicly available official sources in order to provide you with the materials to help answer these questions. 
 The data sets are found below along with their original source, as well a few [tidy](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) versions of some of the data to help with your time. 
 
 ## Shared Area
@@ -89,6 +94,15 @@ The Youth Homelessness data comes from Centrepoint.
 * The Youth Homelessness data varies based on how different districts report what qualifies as homeless
 * Wards changed in London across the three London Databases. If building a complete London crime dataset, these geographic changes will affect locations. See link for more details 
 * Both Crime and Youth Homelessness data is COUNT data and not tidy!! Each row does not represent an INDIVIDUAL crime, but an aggregate. 
+
+## Submitting Your Visualization
+
+When you have finished your analysis, please save the code along with the image you created.
+Feel free to post it on Twitter with a link to your code ala [#TidyTuesday](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/).
+
+You can either [make a pull request of this repository](http://r-pkgs.had.co.nz/git.html) where you create a new directory under the Submissions directory or send your image and code to ResearchResident@ToynbeeHall.org.uk!
+
+**PLEASE REMEMBER TO ADD AN OPEN SOURCE LICENSE AGREEMENT TO YOUR CODE SO WE CAN USE IT IN OUR CAMPAIGNS**
 
 ## Schedule 
 
