@@ -36,16 +36,24 @@ That future work is this project.
 
 In order to help guide this research, we have provided a list of prompts and questions roughly sorted from more specific to more broad in order to both give you context and guide your analysis.
 
-#### Crime and Saftey 
+#### Crime and Safety 
 
 * How does Tower Hamlets compare to other boroughs in terms of crime?
 * Which wards in Tower Hamlets experience the most crime? 
-* Are patterns and trends of crime and safety in Tower Hamlets different from that of other boroughs over time? 
-* Are patterns and trends of crime and safety within the wards of Tower Hamlets different than patterns in other wards of other boroughs?
+* What are the patterns and trends of crime and safety in Tower Hamlets? 
+
+#### Social Cohesion
+
+* How does Tower Hamlets compare to other boroughs in terms of demographic diversity?
+* What are the patterns and trends in Tower Hamlets' population in terms of age? 
+* What are the patterns and trends in Tower Hamlets' population in terms of ethnicity?
 
 #### Youth Homelessness
 
-* How have patterns of youth homelessness changed over time and space? 
+* How have patterns of youth homelessness changed over time and space?
+* What are the trends and patterns in terms of young people living in private rental accommodation in Tower Hamlets?
+
+Specifically, we are interested in people aged 18--30 for our new PAR project on Youth and Housing.
 
 Our goal here is to identify trends in data, visualize them, and share them in way that they can be leveraged by local charities as part of their literature they used to advocate for change at the Government level.
 
